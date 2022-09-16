@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch QA_Factorial",
+            "request": "launch",
+            "mainClass": "may25.QA_Factorial",
+            "projectName": ""
+        },
+        {
+            "type": "node",
+            "name": "Launch Program",
+            "program": "x.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ]
+        }
+    ]
+}
